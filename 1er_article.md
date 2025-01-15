@@ -44,6 +44,7 @@ Or, avec la frontière japonaise se déploie également la frontière de son all
 Afin de sécuriser le périmètre des Senkaku, Tokyo renforce sa défense et sa présence dans la zone. Au niveau local, des patrouilles de gardes-côtes japonais ont régulièrement lieu. Bien qu'elle n'ait pas été un choix gouvernemental, la construction du phare en 1996 participait aussi de cette intention. Au niveau national, le budget de 2023 pour la Défense inclut une part pour améliorer le déploiement de troupes dans la zone sud-oueste du territoire japonais — soit là où se trouvent les Senkaku. L'année dernière, il a été également question de construire un nouveau navire de patrouille de dimension très importante, capable de contenir plusieurs autres plus petits bateaux. De manière générale, l'augmentation du budget militaire du Japon est en partie dûe aux disputes territoriales auxquelles le Japon fait face, dont celle des Senkaku.
 
 # Un emplacement profitable stratégiquement
+
 ## Des ressources de différentes natures
 
 L'Archipel des Senkaku et leur ZEE abritent des ressources de différents types. Il y a une faune et une flore exceptionnelles sur les iles, mais il s'agit davantage de patrimoine écologique que d'enjeux réels, lesquels concernent notamment : les ressources halieutiques, les hydrocarbures, et les terres rares.
@@ -54,9 +55,11 @@ L'Archipel des Senkaku et leur ZEE abritent des ressources de différents types.
 ## Une route commerciale
 
 Dans une certaine mesure, il s'agit également pour la Chine d'un enjeu commercial. Bien que la Chine mette en place une infrastructure importante pour contourner la façade du Pacifique (les fameuses Nouvelles Routes de la Soie), à l'heure actuelle elle exporte toujours la majorité de ses ressources via son littoral oriental. Dans ce contexte, circuler plus librement dans les eaux de la région lui permettrait d'exporter plus facilement ses marchandises, voire de contrôler davantage les flux commerciaux la traversant.
+
 ## Des considérations militaires
 
 En-dehors des considérations mercantiles, les Senkaku sont également un bon atout militaire. Ainsi, les ressources potentiellement exploitables autour des Senkaku sont au final relativement secondaires. Comme l'affirme un un centre de recherche texan, les disputes qui les concernent ont donc un autre enjeu primaire représenté par ces iles : un enjeu stratégique. Le détendeur de la souveraineté sur les Iles Senkaku jouirait en effet d'une position stratégique intéressante dans le contexte géopolitique de la région. En raison de leur petite taille, les Iles Senkaku ne représentent qu'un faible intérêt au niveau de la défense ; elles offrent toutefois un intérêt certain en tant qu'avant-poste en amont de parties plus importantes du territoire japonais d'ailleurs habitées : l'archipel des Yaeyama ou des Miyako au Sud, ou encore mieux l'archipel d'Okinawa à l'Est.
+
 ## Chaque État y trouve son intérêt
 
 Ainsi, chacun des États concernés y trouverait ses propres intérêts :
@@ -73,12 +76,6 @@ Ainsi, les îles Sekaku sont le reflet des tensions croissantes dans la région,
 
 ---
 
-# Notes
-
-[^1]: Le Traité de Shimonoseki est aussi connu en japonais comme « le Traité de Bakan » (馬關條約, Bakan Jōyaku), ou en chinois comme « le Traité de Maguan » (馬關條約, Mǎguān Tiáoyuē).
-[^2]: Rapport du NATO StratCom COE mentionné dans les sources, où le texte en anglais est : « Sea of Peace, Cooperation and Friendship ».
-[^3]: Ces poissons-là en particulier ont été énoncés dans un rapport à propos de l'activité de pêche autour des Senkaku ; le texte en anglais mentionne : « black scraper, horse mackerel, mackerel ».
-
 # Quelques sources pour aller plus loin
 
 - Pamment et al., 『The 2010 Senkaku crisis』, NATO StratCom COE, 205 pages.
@@ -88,3 +85,7 @@ Ainsi, les îles Sekaku sont le reflet des tensions croissantes dans la région,
 - 『Traité de coopération mutuelle et de sécurité entre les États-Unis et le Japon』, signé le 19 janvier 1960.
 - Source des cartes : http://www.geo-ref.net/de/xsn.htm
 - Source de la vidéo : https://ipdefenseforum.com/2024/05/japan-boosts-maritime-defenses-amid-prcs-senkaku-islands-coercion/
+
+[^1]: Le Traité de Shimonoseki est aussi connu en japonais comme « le Traité de Bakan » (馬關條約, Bakan Jōyaku), ou en chinois comme « le Traité de Maguan » (馬關條約, Mǎguān Tiáoyuē).
+[^2]: Rapport du NATO StratCom COE mentionné dans les sources, où le texte en anglais est : « Sea of Peace, Cooperation and Friendship ».
+[^3]: Ces poissons-là en particulier ont été énoncés dans un rapport à propos de l'activité de pêche autour des Senkaku ; le texte en anglais mentionne : « black scraper, horse mackerel, mackerel ».
