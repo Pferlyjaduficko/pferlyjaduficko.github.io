@@ -11,8 +11,9 @@ Parmi les disputes irrésolues qui persistent aujourd'hui sur la scène internat
 Les Iles Senkaku, c'est d'abord un archipel composé de 5 iles de petite taille et de 3 ilots, dont une seule dépasse 1 km^2 et dont aucune n'est habitée. Elles se situent en Mer de Chine Orientale, au Nord de Taïwan. Au Sud et à l'Est des Senkaku se trouvent aussi deux autres groupes d'iles, qui sont elles habitées : les Iles Yaeyama à l'Ouest et les Iles Miyako à l'Est.
 Tout comme ces deux autres groupes d'iles, l'Archipel des Senkaku est administré par le Japon et fait partie de la Préfecture d'Okinawa. Cet état de fait n'est toutefois pas accepté ni par la Chine, ni par Taïwan, qui revendique leur possession. Note amusante : la Chine avance en fait que les Senkaku font partie du territoire de Taïwan ; mais puisque du point de vue chinois, Taïwan fait partie de la Chine, les Senkaku en font mécaniquement aussi partie : une belle pirouette administrative.
 
-![[l'archipel des Senkaku.png]]
-![[les Senkaku individuellement.png]]
+![l'archipel des Senkaku.png](./docs/assets/images/l_archipel_des_Senkaku.png)
+
+![les Senkaku individuellement.png](./docs/assets/images/les_Senkaku_individuellement.png)
 
 <center><i>1ère carte : l'Archipel des Senkaku en lui-même.<br />
 2ème carte : les différentes iles de l'Archipel.</i></center>
@@ -29,7 +30,7 @@ C'est à la fin du XIXème siècle que les Iles Senkaku passent sous la houlette
 
 Depuis leur restitution au Japon, les iles sont régulièrement revendiquées par la Chine et par Taïwan, causant des tensions constantes entre les pays concernés. Quand ils restent "diplomatiques", les arguments avancés prennent souvent appui sur des documents historiques ; sinon, les prétentions se manifestent de diverses manières in situ. Avant les années 2000, l'incident le plus notable a été la construction d'un phare par des Japonais en 1996, ce qui a été très mal perçu dans le monde chinois. La deuxième moitié des années 2000 semblait marquer un appaisement : les dirigeants de la Chine et du Japon avaient déclaré conjointement vouloir faire de la Mer de Chine Orientale une « Mer de Paix, de Coopération et d'Amitié »[^2] — bien qu'une crise diplomatique en 2010 vint tacher ses efforts. Par la suite, et notamment depuis l'arrivée au pouvoir de Xi Jinping en 2013, la Chine accroit ses incursions dans le secteur. Quand ce ne sont pas des bateaux de pêche chinois qui viennent y pêcher, ce sont des bateaux des gardes-côtes chinois qui, en étant vraisemblablement armés, viennent "patrouiller" ou déranger les bateaux de pêche japonais. En 2014, des activistes chinois ont même réussi à atteindre les iles. Par la suite, afin d'éviter une escalade, la Chine et le Japon se sont mis d'accord pour que la Chine empêche d'autres personnes d'essayer d'atteindre les iles, tandis que le Japon ne maintiendrait pas en détention de potentiels autres concernés et les renverrait directement en Chine : une politique qu'un rapport en anglais a appelé « deport-not-detain » (« expulser, pas détenir »).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[https://www.youtube.com/watch?v=yGmLqIpYKqY](https://www.youtube.com/watch?v=yGmLqIpYKqY)
 
 <center><i>Vidéo montrant un navire des gardes-côtes chinois dans la zone des Senkaku, surveillé de près par des navires des gardes-côtes japonais</i></center>
 
@@ -49,6 +50,7 @@ L'Archipel des Senkaku et leur ZEE abritent des ressources de différents types.
 - La zone des Senkaku est avant tout connue pour être une zone de pêche. On y trouve entre autres des poissons-limes noirs, des chinchards, et des maquereaux [^3]. Afin de réguler la pêche dans la zone, plusieurs conventions ont été signées entre les différents pays concernés (comprenant alors également la Corée du Sud). Toutefois, ces dernières années, à cause de la surpêche, la zone est devenue moins intéressante pour pêcher.
 - Du pétrole aurait également été trouvé, et des installations off-shore ont été plusieurs fois envisagées. Toutefois, des études menées récemment dans la zone ont révélé que la quantité d'hydrocarbures réelle pourrait être bien inférieure à la quantité initialement convoitée.
 - La dernière ressource est une ressource cruciale pour le monde contemporain : les terres rares. Cette ressource est aussi régulièrement mentionnée dans les conflits territoriaux en Mer de Chine Méridionale. Les terres rares sont des métaux nécessaires à la confection de plusieurs matériaux électroniques tels que les batteries ou les microprocesseurs. En-dehors des gisements à la surface, des gisements se trouveraient au sol des bas-fonds marins à plusieurs milliers de kilomètres sous la mer. En raison de l'infrastructure nécessaire à leur exploitation, ces gisements-ci ne sont pas actuellement considérés sérieusement, que ce soit pour l'Archipel des Senkaku ou ailleurs.
+
 ## Une route commerciale
 
 Dans une certaine mesure, il s'agit également pour la Chine d'un enjeu commercial. Bien que la Chine mette en place une infrastructure importante pour contourner la façade du Pacifique (les fameuses Nouvelles Routes de la Soie), à l'heure actuelle elle exporte toujours la majorité de ses ressources via son littoral oriental. Dans ce contexte, circuler plus librement dans les eaux de la région lui permettrait d'exporter plus facilement ses marchandises, voire de contrôler davantage les flux commerciaux la traversant.
@@ -70,11 +72,13 @@ Intéressamment, les États-Unis évitent de prendre une position trop marquée 
 Ainsi, les îles Sekaku sont le reflet des tensions croissantes dans la région, en premier lieu celles mêlant la Chine et ses voisins. Depuis quelques décennies, les disputes surviennent régulièrement, battant la mesure du réarmement régional. Ces disputes sont d'un genre particulier : ne concernant pas des ressources, elles représentent avant tout la volonté pour les pays concernés d'affirmer leur souveraineté face à leurs voisins. Ces pays étant parmi les plus significatifs de la région (si ce n'est du monde), les incidents autour de l'Archipel des Senkaku fournissent une bonne mesure de la tension géopolitique dans la région.
 
 ---
+
 # Notes
 
 [^1]: Le Traité de Shimonoseki est aussi connu en japonais comme « le Traité de Bakan » (馬關條約, Bakan Jōyaku), ou en chinois comme « le Traité de Maguan » (馬關條約, Mǎguān Tiáoyuē).
-[^2]: papier de l'OTAN, où le texte est en anglais : “Sea of Peace, Cooperation and Friendship.”
-[^3]: Ces poissons-là en particulier ont été énoncés dans un rapport à propos de l'activité de pêche autour des Senkaku, en anglais : "black scraper, horse mackerel, mackerel".
+[^2]: Rapport du NATO StratCom COE mentionné dans les sources, où le texte en anglais est : « Sea of Peace, Cooperation and Friendship ».
+[^3]: Ces poissons-là en particulier ont été énoncés dans un rapport à propos de l'activité de pêche autour des Senkaku ; le texte en anglais mentionne : « black scraper, horse mackerel, mackerel ».
+
 # Quelques sources pour aller plus loin
 
 - Pamment et al., 『The 2010 Senkaku crisis』, NATO StratCom COE, 205 pages.
