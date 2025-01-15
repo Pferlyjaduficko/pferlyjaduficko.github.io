@@ -4,7 +4,7 @@
 
 Parmi les disputes irrésolues qui persistent aujourd'hui sur la scène internationale, un certain nombre d'entre elles se trouvent en Asie de l'Est. L'une d'entre elles a la particularité de concerner 3 pays : la Chine, le Japon, et Taïwan, au sujet d'un archipel de petites iles a priori insignifiantes. Cette dispute, c'est celle concernant **les Iles Senkaku**, qui affiche régulièrement des incidents si ce n'est des crises.
 
-![[la zone des Senkaku.png]]
+![la zone des Senkaku.png](./docs/assets/images/la_zone_des_Senkaku.png)
 
 # Présentation rapide des Iles Senkaku
 
