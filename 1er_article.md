@@ -32,7 +32,7 @@ Depuis leur restitution au Japon, les iles sont régulièrement revendiquées pa
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yGmLqIpYKqY/0.jpg)](https://www.youtube.com/watch?v=yGmLqIpYKqY)
 
-<center><i>Vidéo montrant un navire des gardes-côtes chinois dans la zone des Senkaku, surveillé de près par des navires des gardes-côtes japonais</i></center>
+<center><i>Vidéo montrant un navire des gardes-côtes chinois dans la zone des Senkaku, surveillé de près par des navires des gardes-côtes japonais</i></center><br />
 
 # Une question de frontières et de sphères d'influence sous-jacente
 
@@ -85,6 +85,8 @@ Ainsi, les îles Sekaku sont le reflet des tensions croissantes dans la région,
 - 『Traité de coopération mutuelle et de sécurité entre les États-Unis et le Japon』, signé le 19 janvier 1960.
 - Source des cartes : http://www.geo-ref.net/de/xsn.htm
 - Source de la vidéo : https://ipdefenseforum.com/2024/05/japan-boosts-maritime-defenses-amid-prcs-senkaku-islands-coercion/
+
+# Notes
 
 [^1]: Le Traité de Shimonoseki est aussi connu en japonais comme « le Traité de Bakan » (馬關條約, Bakan Jōyaku), ou en chinois comme « le Traité de Maguan » (馬關條約, Mǎguān Tiáoyuē).
 [^2]: Rapport du NATO StratCom COE mentionné dans les sources, où le texte en anglais est : « Sea of Peace, Cooperation and Friendship ».
