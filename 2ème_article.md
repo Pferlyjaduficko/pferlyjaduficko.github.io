@@ -20,7 +20,7 @@ Administratativement, les Kouriles Méridionales font partie de l'Oblast de Sakh
 | Итуруп (Iturup)     | 択捉島 (Etorofu-tō)     | 3 238 km^2 | 7 000 habitants    |
 | Кунашир (Kounachir) | 国後島 (Kunashiri-tō)   | 1 550 km^2 | 4 000 habitants    |
 | Шикотан (Chikotan)  | 色丹島 (Shikotan-tō)    | 182 km^2   | 1 500 habitants    |
-| Хабомай (Habomaï)   | 歯舞諸島 (Habomai-shotō) |            | inhabitées         |
+| Хабомай (Habomaï)   | 歯舞諸島 (Habomai-shotō) | /           | inhabitées         |
 En outre, Chikotan et les Iles Habomai font partie d'un sous-ensemble appelées « Petites Kouriles ».
 
 ![l'archipel des Senkaku.png](./docs/assets/images/2ème_article/Localisation_des_Kouriles_Méridionales_et_zoom.avif)
