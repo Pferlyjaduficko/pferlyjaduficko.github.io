@@ -4,7 +4,8 @@
 
 Il compte parmi les lieux géopolitiques les plus surveillés[^1]. Il fait partie des enjeux maritimes les plus importants du Pacifique. Il gêne les relations entre le Japon et la Russie depuis des décennies. Ce « il », c'est le contentieux des Iles Kouriles Méridionales : une dispute au sujet de la souveraineté sur un ensemble d'iles situées entre le Japon et la Russie, à la périphérie de leur territoire respectif.
 
-![[6. Localisation des Kouriles Méridionales.webp]]
+![les Senkaku individuellement.png](./docs/assets/images/2ème_article/Localisation_des_Kouriles_Méridionales.webp)
+
 Localisation des Kouriles Méridionales.
 
 ---
@@ -22,7 +23,8 @@ Administratativement, les Kouriles Méridionales font partie de l'Oblast de Sakh
 | Хабомай (Habomaï)   | 歯舞諸島 (Habomai-shotō) |            | inhabitées         |
 En outre, Chikotan et les Iles Habomai font partie d'un sous-ensemble appelées « Petites Kouriles ».
 
-![[7. Localisation des Kouriles Méridionales et zoom.avif]]
+![l'archipel des Senkaku.png](./docs/assets/images/2ème_article/Localisation_des_Kouriles_Méridionales_et_zoom.avif)
+
 Localisation et carte des Kouriles Méridionales.
 
 Suffisamment grandes pour la plupart, les Kouriles Méridionales sont habitées par plusieurs milliers de personnes. Ethniquement, ces dernières sont avant tout des Russes ; on trouve également plusieurs autres ethnies et nationalités, parmi lesquelles des Ukrainiens, des Coréens, et des Aïnous. Les infrastructures sont plutôt limitées.
@@ -108,7 +110,8 @@ En-dehors des ressources et des enjeux évoqués ci-dessus, les Kouriles Méridi
 Si, de manière générale, la population japonaise ne s'intéresse pas à la question, le gouvernement japonais s'y intéresse bien pour sa part. Afin de palier au désintérêt de son peuple, le gouvernement met en œuvre des campagnes insistant sur le caractère japonais de ces iles. Il appelle ces iles « les Territoires du Nord » (北方領土, Hoppō Ryōdo), et les rattache administrativement les Kouriles Méridionales à la Sous-Préfecture de Nemuro (根室振興局, Nemuro-shinkō-kyoku), au sein de la Préfecture de Hokkaïdo (北海道, Hokkai-dō). Depuis le 16 juillet 2008, les manuels scolaires japonais indiquent que les Kouriles Méridionales sont japonaises. Des sorties scolaires sont organisées à proximité afin d'enseigner aux élèves le sort géopolitique de ces iles en défaveur du Japon. Sur les lieux mêmes, des monuments sont érigés rappelant la souveraineté japonaise des Kouriles Méridionales.
 Cet effort de sensibilisation apparait également dans la culture populaire japonaise. Alors que je regardais un animé japonais, j'ai remarqué qu'une carte du Japon incluait les Kouriles Méridionales :
 
-![[5. Carte du Japon dans C.png]]
+![les Senkaku individuellement.png](./docs/assets/images/2ème_article/Carte_du_Japon_dans_C.png)
+
 Carte du Japon dans 『\[C] - The Money of Soul and Possibility Control』.
 
 Je ne sais pas à quel point cette carte-là peut se lier aux positions du gouvernement japonais, mais elle rappelle à coup sûr les cartes diffusées dans les œuvres chinoises qui font passer sous la juridiction de Pékin plusieurs territoires également en proie à des contentieux avec d'autres pays (tels que les Iles Spratleys).
