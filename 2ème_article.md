@@ -79,7 +79,7 @@ Le Japon appuie aussi ses revendications à partir des droits des anciens habita
 
 Parallèlement aux Japonais et aux Russes, un autre peuple se soucie du sort des Kouriles Méridionales et les réclame : les Aïnous. Ils justifient leur revendication par le fait qu'ils occupaient ces iles avant les Japonais ou les Russes.
 
-Les Aïnous interviennent de temps en temps pour manifester leur position. En 1992, un Aïnou japonais était intervenu lors d'une réunion japono-russe à propos du litige territorial pour manifester la place de son peuple dans la question. Dans la même veine, quelques années plus tard, en 2004, des Aïnous de nationalité russe (vivant dans la région voisine du Kamtchatka) ont contacté leur Président, à l'époque Vladimir Poutine, en lui demandant notamment de ne pas répondre aux revendications japonaises concernant les Kouriles.[^1]
+Les Aïnous interviennent de temps en temps pour manifester leur position. En 1992, un Aïnou japonais était intervenu lors d'une réunion japono-russe à propos du litige territorial pour manifester la place de son peuple dans la question. Dans la même veine, quelques années plus tard, en 2004, des Aïnous de nationalité russe (vivant dans la région voisine du Kamtchatka) ont contacté leur Président, à l'époque Vladimir Poutine, en lui demandant notamment de ne pas répondre aux revendications japonaises concernant les Kouriles.[^2]
 
 Bien qu'elle ait peu de chances d'aboutir, la revendication aïnoue rencontre un écho parmi les autres revendications de même aloi émergeant de plus en plus ces dernières années de la part d'autres peuples autochtones de par le monde, comme dans les Amériques ou en Australie.
 
