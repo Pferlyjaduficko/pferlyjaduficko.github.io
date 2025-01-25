@@ -132,14 +132,15 @@ Si les ressources exploitables dans la zone ont leur importance, les Kouriles M�
 Si la fin de la Guerre en Ukraine pourrait éventuellement renouer un dialogue plus fructueux entre le Japon et la Russie, rien ne garantit qu'il y sera question des Kouriles Méridionales ; et même si cela avait lieu, on peut être sûr que la zone resterait sous surveillance étroite des radars géopolitiques en raison de son importance stratégique.
 
 ---
-# Notes
 
-[^1]: Gauchon (Pascal) (dir.), Les 100 lieux de la géopolitique. (7e éd.). Presses Universitaires de France.
-[^2]: On peut noter la différence de vision avec la revendication des Aïnous japonais, qui elle était neutre par rapport aux deux pays, tandis que la revendication des Aïnous russes est en faveur des Russes.
-
-# Sources pour aller plus loin
+# Quelques sources pour aller plus loin
 
 - [La page Wikipédia concernée](https://fr.wikipedia.org/w/index.php?title=Contentieux_relatif_aux_%C3%AEles_Kouriles&oldid=221215119), qui fournit un bon résumé des enjeux et positions du contentieux.
 - Terry McCarthy, Ainu people lay ancient claim to Kurile Islands: The hunters and fishers who lost their land to the Russians and Japanese are gaining the confidence to demand their rights, reports Terry McCarthy, The Independent, 21 septembre 1992 (URL : https://www.independent.co.uk/news/world/ainu-people-lay-ancient-claim-to-kurile-islands-the-hunters-and-fishers-who-lost-their-land-to-the-russians-and-japanese-are-gaining-the-confidence-to-demand-their-rights-reports-terry-mccarthy-1552879.html).
 - Jin-Mieung Li, La question territoriale dans les relations internationales en Asie du Nord-Est, Hérodote, n° 141, La Découverte, 2e trimestre 2011.
 - Traité de San Francisco de 1951.
+
+# Notes
+
+[^1]: Gauchon (Pascal) (dir.), Les 100 lieux de la géopolitique. (7e éd.). Presses Universitaires de France.
+[^2]: On peut noter la différence de vision avec la revendication des Aïnous japonais, qui elle était neutre par rapport aux deux pays, tandis que la revendication des Aïnous russes est en faveur des Russes.
