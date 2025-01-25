@@ -4,16 +4,16 @@
 
 Parmi les disputes irrésolues qui persistent aujourd'hui sur la scène internationale, un certain nombre d'entre elles se trouvent en Asie de l'Est. L'une d'entre elles a la particularité de concerner 3 pays : la Chine, le Japon, et Taïwan, au sujet d'un archipel de petites iles a priori insignifiantes. Cette dispute, c'est celle concernant **les Iles Senkaku**, qui affiche régulièrement des incidents si ce n'est des crises.
 
-![la zone des Senkaku.png](./docs/assets/images/la_zone_des_Senkaku.png)
+![la zone des Senkaku.png](./docs/assets/images/1er_article/la_zone_des_Senkaku.png)
 
 # Présentation rapide des Iles Senkaku
 
 Les Iles Senkaku, c'est d'abord un archipel composé de 5 iles de petite taille et de 3 ilots, dont une seule dépasse 1 km^2 et dont aucune n'est habitée. Elles se situent en Mer de Chine Orientale, au Nord de Taïwan. Au Sud et à l'Est des Senkaku se trouvent aussi deux autres groupes d'iles, qui sont elles habitées : les Iles Yaeyama à l'Ouest et les Iles Miyako à l'Est.
 Tout comme ces deux autres groupes d'iles, l'Archipel des Senkaku est administré par le Japon et fait partie de la Préfecture d'Okinawa. Cet état de fait n'est toutefois pas accepté ni par la Chine, ni par Taïwan, qui revendique leur possession. Note amusante : la Chine avance en fait que les Senkaku font partie du territoire de Taïwan ; mais puisque du point de vue chinois, Taïwan fait partie de la Chine, les Senkaku en font mécaniquement aussi partie : une belle pirouette administrative.
 
-![l'archipel des Senkaku.png](./docs/assets/images/l_archipel_des_Senkaku.png)
+![l'archipel des Senkaku.png](./docs/assets/images/1er_article/l_archipel_des_Senkaku.png)
 
-![les Senkaku individuellement.png](./docs/assets/images/les_Senkaku_individuellement.png)
+![les Senkaku individuellement.png](./docs/assets/images/1er_article/les_Senkaku_individuellement.png)
 
 <center><i>1ère carte : l'Archipel des Senkaku en lui-même.<br />
 2ème carte : les différentes iles de l'Archipel.</i></center>
